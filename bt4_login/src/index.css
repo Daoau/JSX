@@ -1,0 +1,19 @@
+.container{
+  border:3px solid red;
+  width: 380px;
+  margin: auto;
+  margin-top: 60px;
+}
+.content{
+  padding: 12px;
+}
+h1{
+  text-align: center;
+}
+.input{
+  height: 100%;
+}
+.button{
+  text-align: center;
+  margin: 20px;
+}
